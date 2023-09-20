@@ -79,7 +79,7 @@ const CaesarCipher: React.FC = () => {
       />
       {textError && <p className={styles.errorMessage}>{textError}</p>}
       <TextInput
-        label="Number Input"
+        label="Shift Input"
         value={shift}
         type="number"
         onChange={handleChangeShift}
