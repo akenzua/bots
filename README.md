@@ -14,9 +14,9 @@ This project is a simple web application built with React and TypeScript to encr
 
 1. Clone the repository:
 
-   ```javascript
-   git clone https://github.com/your-github-username/caesar-cipher-react-app.git
-   ```
+```javascript
+git clone https://github.com/akenzua/caesar-cipher-react-app.git
+```
 
 2. Navigate to the project:
 
@@ -43,3 +43,5 @@ npm start
 3. Select the cipher direction (right or left) using the radio buttons.
 4. Click the "Cipher" button to perform the encryption/decryption.
 5. The result will be displayed below the button.
+
+![Caesar Cipher Screenshot](<Screenshot 2023-09-20 at 15.48.17.png>)
