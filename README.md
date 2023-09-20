@@ -44,4 +44,4 @@ npm start
 4. Click the "Cipher" button to perform the encryption/decryption.
 5. The result will be displayed below the button.
 
-![Caesar Cipher App](<Screenshot 2023-09-20 at 15.51.02.png>)
+![Caesar App](<Screenshot 2023-09-20 at 15.51.10.png>)
