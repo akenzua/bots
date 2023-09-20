@@ -1,0 +1,26 @@
+.inputWrapper {
+  width: 100%;
+  border: none;
+}
+
+.inputLabel {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: var(--label-color);
+}
+
+.inputBox {
+  border: 1px solid var(--input-border-color);
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  padding: 0.625rem;
+  height: 50px;
+}
+
+.inputBox:active,
+.inputBox:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--input-outline-color);
+}
