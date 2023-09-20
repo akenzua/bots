@@ -1,6 +1,6 @@
 # Caesar Cipher React App
 
-This project is a simple web application built with React and TypeScript to encrypt and decrypt messages using the Caesar cipher method.
+This project is a simple web application built with React and TypeScript to encrypt messages using the Caesar cipher method.
 
 ## Features
 
