@@ -15,7 +15,7 @@ describe("CaesarCipher component", () => {
         "HELLO"
       );
       userEvent.type(
-        screen.getByRole("spinbutton", { name: /Number Input/i }),
+        screen.getByRole("spinbutton", { name: /Shift Input/i }),
         "1"
       );
       userEvent.click(screen.getByRole("radio", { name: /Right/i }));
@@ -37,7 +37,7 @@ describe("CaesarCipher component", () => {
         "HELLO"
       );
       userEvent.type(
-        screen.getByRole("spinbutton", { name: /Number Input/i }),
+        screen.getByRole("spinbutton", { name: /Shift Input/i }),
         "1"
       );
       userEvent.click(screen.getByRole("radio", { name: /Left/i }));
